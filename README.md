@@ -2,6 +2,8 @@
 
   Este projeto utiliza o projeto Apeperia já criado anteriormente, o pricipal objetivo desse projeto é o aprendizado de mecanismos para criar acessibilidade para pessoas com deficiência visual, utilizando artifícios do HTML5 e CSS3.
 
+![print da página](https://github.com/GABRIEL-ASSYS/Acessibilidade-Web/blob/main/img/print.png)
+
 ## 🚀 Começando
 
 Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
