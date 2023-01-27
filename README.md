@@ -1,4 +1,4 @@
-# Acessibilidade Web
+# Acessibilidade Web 👨‍🦯
 
   Este projeto utiliza o projeto Apeperia já criado anteriormente, o pricipal objetivo desse projeto é o aprendizado de mecanismos para criar acessibilidade para pessoas com deficiência visual, utilizando artifícios do HTML5 e CSS3.
 
